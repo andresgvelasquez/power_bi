@@ -2,7 +2,7 @@
 
 ## When are we making money?
 
-The table displays hourly sales data across a week, with higher earnings in miday and early evening hours, particulary around 10 to 15 hours, suggesting these are the most profitable times. Days like Wednesday and Friday show notably highher sales, indicating variable profitability across the week.
+The table displays hourly sales data across a week, with higher earnings in miday and early evening hours, particulary around 10 to 15 hours, suggesting these are the most profitable times. Days like Wednesday and Friday show notably higher sales, indicating variable profitability across the week.
 
 ![Alt text](toman_bike_shop.png)
 
